@@ -1,5 +1,5 @@
 ---
-title: 非线性弹性力学简介
+title: 1. 非线性弹性力学简介
 author: 马鹏飞
 date: 2022-10-10
 category: translation

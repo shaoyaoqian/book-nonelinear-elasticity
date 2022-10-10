@@ -1,12 +1,11 @@
 ---
-title: 1运动学
+title: 2. 运动学
 author: Tao He
 date: 2019-04-27
 category: Jekyll
 layout: post
 mathjax: yes
 ---
-# 2 运动学
 
 ## 2.1 物体、构型、运动
 
