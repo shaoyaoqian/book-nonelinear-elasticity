@@ -8,9 +8,13 @@ mathjax: yes
 
 # 1.1 非线弹性简介
 以下是不同材料的微观结构的草图(金属，橡胶，生物软组织)，以及它们在拉伸测试中的应力应变响应曲线。
-
-![image-20221003160828379](https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031608516.png)
-<small> 图1</small>
+<div>
+    <center>            <!--将图片和文字居中-->
+    <img src="https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031608516.png"
+         alt="无法显示图片时显示的文字"
+         style="70%"/>
+<center> 图1 不同材料的微观结构</center>
+</div>
 
 <div>                   <!--块级封装-->
     <center>            <!--将图片和文字居中-->
@@ -18,10 +22,9 @@ mathjax: yes
          alt="无法显示图片时显示的文字"
          style="70%"/>
     <br>                <!--换行-->
-    这里是图片的标题       <!--标题-->
+    图2 应力应变曲线       <!--标题-->
     </center>
 </div>
-<br>
 <br>
 
 
