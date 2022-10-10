@@ -13,7 +13,8 @@ mathjax: yes
     <img src="https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031608516.png"
          alt="无法显示图片时显示的文字"
          style="70%"/>
-<center> 图1 不同材料的微观结构</center>
+    <br>                <!--换行-->
+    图1 不同材料的微观结构</center>
 </div>
 
 <div>                   <!--块级封装-->
