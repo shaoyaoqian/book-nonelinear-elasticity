@@ -1,17 +1,14 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 非线性弹性力学
 permalink: /
 ---
 
 本书是非线性弹性力学的翻译
-Make Jelly site have a GitBook look!
 
-## Demo
+本书模板: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+本书原文：[]()
 
 ## Why Jekyll with GitBook
 
