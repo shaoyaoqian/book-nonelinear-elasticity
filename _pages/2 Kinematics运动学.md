@@ -1,8 +1,7 @@
 ---
-title: 2. 运动学
+title: 2 运动学
 author: 马鹏飞
-date: 2019-04-27
-category: Jekyll
+category: translation
 layout: post
 mathjax: yes
 ---
