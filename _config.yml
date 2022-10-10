@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://www.pengfeima.cn/'
-baseurl:          'book-nonelinear-elasticity'
+url:              'http://book-nonelinear-elasticity.pengfeima.cn'
+baseurl:          'http://book-nonelinear-elasticity.pengfeima.cn'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
