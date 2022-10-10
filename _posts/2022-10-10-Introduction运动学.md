@@ -1,6 +1,6 @@
 ---
 title: 2. 运动学
-author: Tao He
+author: 马鹏飞
 date: 2019-04-27
 category: Jekyll
 layout: post
@@ -49,7 +49,11 @@ $$
 
 其中，$\mathbf{c}(t)$是一个向量，$\mathbf{Q}(t)$是一个本征正交二阶张量。
 
+> ##### TIP
+>
 > 此处的本征正交有疑问。我的理解，是$\mathbf{Q}(t)$是一个旋转矩阵，即它是一个正交矩阵并且它的行列式是单位一。
+> this or a similar version after installation.
+{: .block-tip }
 
 我们可以证明任意两个粒子之间的距离不发生变化。
 
