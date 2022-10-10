@@ -12,13 +12,13 @@ mathjax: yes
 ![image-20221003160828379](https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031608516.png)
 <small> 图1</small>
 
-<div>			<!--块级封装-->
-    <center>	<!--将图片和文字居中-->
-    <img src=“https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031609794.png”
+<div>                   <!--块级封装-->
+    <center>            <!--将图片和文字居中-->
+    <img src="https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031609794.png"
          alt="无法显示图片时显示的文字"
          style="70%"/>
-    <br>		          <!--换行-->
-    这里是图片的标题	     <!--标题-->
+    <br>                <!--换行-->
+    这里是图片的标题       <!--标题-->
     </center>
 </div>
 
