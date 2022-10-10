@@ -49,7 +49,7 @@ $$
 
 其中，$\mathbf{c}(t)$是一个向量，$\mathbf{Q}(t)$是一个本征正交二阶张量。
 
-> ##### TIP
+> ##### 提示
 >
 > 此处的本征正交有疑问。我的理解，是$\mathbf{Q}(t)$是一个旋转矩阵，即它是一个正交矩阵并且它的行列式是单位一。
 > this or a similar version after installation.
