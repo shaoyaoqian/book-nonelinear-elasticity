@@ -4,7 +4,7 @@ author: 马鹏飞
 category: translation
 layout: post
 mathjax: yes
-cover: /assets/jekyll-gitbook/dinosaur.gif
+cover: /assets/dinosaur.gif
 ---
 
 ## 2.1 物体、构型、运动
