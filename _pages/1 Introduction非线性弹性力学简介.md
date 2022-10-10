@@ -12,8 +12,16 @@ mathjax: yes
 ![image-20221003160828379](https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031608516.png)
 <small> 图1</small>
 
-![image-20221003160957692](https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031609794.png)
-<center> 图2</center>
+<div>			<!--块级封装-->
+    <center>	<!--将图片和文字居中-->
+    <img src=“https://raw.githubusercontent.com/mapengfei-nwpu/personal_pictures/main/typora_picgo/202210031609794.png”
+         alt="无法显示图片时显示的文字"
+         style="70%"/>
+    <br>		          <!--换行-->
+    这里是图片的标题	     <!--标题-->
+    </center>
+</div>
+
 
 在材料的拉伸测试中，如果应力T与应变E成正比，那么这种材料就是线弹性的。图1（a）显示了典型的金属**拉伸曲线**，点P代表比例极限，点Y表示屈服点（超过Y时，物体会发生塑性变形，也就是说，一旦载荷消除，物体不会恢复其原始形状和状态）。对金属的实验表明，点P在0.01%–0.1%的应变范围内。在这个范围内，相关的表达式可以线性化，在关于应变E的方程展开式中仅保留线性项。这就是所谓的无穷小弹性理论，或者经典弹性理论。
 
