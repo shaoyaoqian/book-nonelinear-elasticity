@@ -1,8 +1,8 @@
 ---
-title: Why Jekyll with GitBook
-author: Tao He
-date: 2019-04-27
-category: Jekyll
+title: 非线性弹性力学简介
+author: 马鹏飞
+date: 2022-10-10
+category: translation
 layout: post
 mathjax: yes
 ---
