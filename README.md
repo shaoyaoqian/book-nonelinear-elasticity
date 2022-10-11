@@ -11,6 +11,8 @@ permalink: /
 - 弹性材料的本构方程
 - 应力应变方程
 
+本书仓库：[shaoyaoqian/book-nonelinear-elasticity](https://github.com/shaoyaoqian/book-nonelinear-elasticity)
+
 本书模板: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
 本书原文：[Nonlinear Elasticity.pdf](https://github.com/shaoyaoqian/book-nonelinear-elasticity/raw/master/resources/Nonlinear%20Elasticity.pdf)
