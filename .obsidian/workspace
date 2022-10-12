@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9057e4727fdf4df5",
+        "id": "8693e34224b39de3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2022-02",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,10 +78,10 @@
               "type": "backlink",
               "state": {
                 "file": "_pages/2 运动学.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
-  "active": "9057e4727fdf4df5",
+  "active": "8693e34224b39de3",
   "lastOpenFiles": [
-    "_pages/2 运动学.md",
-    "_pages/1 Introduction非线性弹性力学简介.md",
-    "刚体运动.md",
+    "items/拉伸测试.md",
+    "templates/template.md.md",
+    "items/参考构型.md",
+    "assets/dinosaur.gif",
+    "赛博朋克.md",
+    "_pages/9 啦啦.md",
+    "_pages/3 运动方程和平衡定律.md",
+    "items/粘弹性.md",
     "items/运动.md",
-    "items/物体.md",
-    "items/构型.md",
-    "构型.md",
-    "参考构型.md",
-    "刚度.md",
-    "README.md"
+    "items/形变.md"
   ]
 }
