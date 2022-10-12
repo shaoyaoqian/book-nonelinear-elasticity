@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "208ba33737ac2955",
+        "id": "defeae014ddb7553",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_pages/1 Introduction非线性弹性力学简介.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,13 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_pages/1 Introduction非线性弹性力学简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_pages/1 Introduction非线性弹性力学简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,20 +116,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_pages/1 Introduction非线性弹性力学简介.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "208ba33737ac2955",
+  "active": "defeae014ddb7553",
   "lastOpenFiles": [
-    "_pages/1 Introduction非线性弹性力学简介.md",
-    "_pages/2 Kinematics运动学.md",
-    "_pages/0 Paper壁纸.md"
+    "刚体运动.md",
+    "_pages/2 运动学.md",
+    "items/运动.md",
+    "items/物体.md",
+    "items/构型.md",
+    "构型.md",
+    "参考构型.md",
+    "刚度.md",
+    "README.md",
+    "粘弹性.md"
   ]
 }
