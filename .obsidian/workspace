@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "409741402b5ac037",
+    "type": "split",
+    "children": [
+      {
+        "id": "208ba33737ac2955",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33cf8d51840e6ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c647232f5944c530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5967e9cddc16b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14a9cc1076ebd2b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3ac3e9e4e2fc5e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1e99f14867ed2ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0f7b6ee18ef626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f0dbf303d64a10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1772b355542f8178",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dbb59a282e61eb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73d3d08f6998047a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "208ba33737ac2955",
+  "lastOpenFiles": [
+    "_pages/1 Introduction非线性弹性力学简介.md",
+    "_pages/2 Kinematics运动学.md",
+    "_pages/0 Paper壁纸.md"
+  ]
+}
