@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe2ede9b362e701",
+        "id": "0b7a42a6b88cff2e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "items/线弹性.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3664b6d4e0fb6f16",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "items/线弹性.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c04a25f7dc2e374a",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "attatchments/xiuqiuhua.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -99,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attatchments/xiuqiuhua.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attatchments/xiuqiuhua.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "attatchments/xiuqiuhua.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +120,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "c04a25f7dc2e374a",
+  "active": "0b7a42a6b88cff2e",
   "lastOpenFiles": [
     "attatchments/公式                                        (1)e=mc2.md",
+    "items/线弹性.md",
+    "attatchments/xiuqiuhua.png",
     "_pages/连续介质力学.md",
     "_pages/9 啦啦.md",
     "_pages/3 运动方程和平衡定律.md",
     "_pages/2 运动学.md",
     "_pages/1 Introduction非线性弹性力学简介.md",
     "_pages/0 Paper壁纸.md",
-    "items/弹性蛋白.md",
-    "2022-10-13.md",
-    "items/刚体运动.md"
+    "items/弹性蛋白.md"
   ]
 }
