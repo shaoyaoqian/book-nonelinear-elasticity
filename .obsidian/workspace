@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7a42a6b88cff2e",
+        "id": "36a56a21addadef8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/名词定义.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "WechatIMG30.jpeg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 189
   },
   "right": {
     "id": "f1e99f14867ed2ff",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/名词定义.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/名词定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,27 +116,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/名词定义.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 201.9986572265625
   },
-  "active": "0b7a42a6b88cff2e",
+  "active": "36a56a21addadef8",
   "lastOpenFiles": [
-    "attatchments/公式                                        (1)e=mc2.md",
-    "items/线弹性.md",
-    "attatchments/xiuqiuhua.png",
+    "templates/template.md.md",
     "_pages/连续介质力学.md",
-    "_pages/9 啦啦.md",
+    "_pages/应力应变曲线.md",
+    "_posts/9 啦啦.md",
+    "_pages/4 本构方程.md",
     "_pages/3 运动方程和平衡定律.md",
-    "_pages/2 运动学.md",
     "_pages/1 Introduction非线性弹性力学简介.md",
-    "_pages/0 Paper壁纸.md",
-    "items/弹性蛋白.md"
+    "().md",
+    "_posts/2022-06-26-wide_tables.md",
+    "README.md"
   ]
 }

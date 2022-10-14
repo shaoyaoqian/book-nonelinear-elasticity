@@ -10,5 +10,7 @@
   },
   "newFileLocation": "current",
   "attachmentFolderPath": "attatchments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
