@@ -2,3 +2,5 @@ _site/
 _draft/
 .jekyll-cache/
 .obsidian
+.DS_Store
+.DS_Store
