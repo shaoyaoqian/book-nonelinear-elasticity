@@ -5,6 +5,7 @@ date: 2022-10-24
 category: 类型
 layout: post
 ---
+日期：2022-10-24  时间：21:18
 
 宽表格需要写进类型为`table-wrapper`的`div`块中才能在移动设备上正确显示。
 
@@ -42,3 +43,4 @@ layout: post
 |  徐娟  | 10.70.181.65 | 3389 |  lenovo   | 710129@heart |  投影仪  |
 
 </div>
+
